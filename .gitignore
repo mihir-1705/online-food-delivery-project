@@ -1,0 +1,19 @@
+# Java
+/target/
+/*.iml
+/.idea/
+/*.log
+
+# Node
+/node_modules/
+/build/
+/dist/
+
+# Env & keys
+.env
+application.properties
+application.yml
+
+# OS
+.DS_Store
+Thumbs.db
